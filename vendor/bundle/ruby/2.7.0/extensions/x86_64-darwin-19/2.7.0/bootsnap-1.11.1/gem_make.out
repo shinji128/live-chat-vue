@@ -1,0 +1,15 @@
+current directory: /Users/mac/workspace/live-chat-vue/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+/Users/mac/.rbenv/versions/2.7.5/bin/ruby -I /Users/mac/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220313-77478-128tkce.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mac/workspace/live-chat-vue/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/mac/workspace/live-chat-vue/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/mac/workspace/live-chat-vue/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.11.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220313-77478-v8pnd7/bootsnap
